@@ -1,11 +1,5 @@
 wall of shields
 standing strong
 on this their chosen battle field
-
 from the line
 shield by shield
-
-to commit for delete
-try amend first(and add ammend to commit)
-
-!!!this will be just in feature branch
